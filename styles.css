@@ -1,0 +1,24 @@
+*{
+margin: 0;
+padding: 0;
+}
+*{
+background-color: #9652f5a8;
+}
+.flex {
+    display:flex;
+}
+.space-between{
+    justify-content: space-between;
+}
+.ph-100{
+    padding-left: 100;
+    padding-right: 100; 
+}
+.ptb-50{
+    padding-top: 50;
+    padding-bottom: 50;
+}
+.max-width{
+    width: 100;
+}
